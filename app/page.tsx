@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import ProductsCard from './components/ProductsCard'
+import ProductsCard from './components/ProductCard/ProductsCard'
 
 export default function Home() {
   return (
